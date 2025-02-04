@@ -1,10 +1,10 @@
----
-
 # Shape Haunt
 
 **Shape Haunt** is a C++ game where the player's mission is to guess and cover randomly generated complex shapes using a set of basic shapes. The game leverages Object-Oriented Programming (OOP) principles to ensure modularity, extensibility, and maintainability.
 
 ---
+
+
 
 ## Game Overview
 
