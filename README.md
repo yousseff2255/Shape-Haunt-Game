@@ -30,10 +30,11 @@ The game generates random complex shapes on the screen, and the player is provid
 
 1. Launch the game.
 2. You will have the choice to play a timed game or not
-3. A random complex shape will appear on the screen.
-4. Use the provided basic shapes to cover the complex shape.
-5. Drag, rotate, and resize the basic shapes to fit them onto the complex shape.
-6. Once you match correctly , your score will increase and the shape will disappear leaving you with the rest of the complex shape
+3. Choose a level
+4. A random complex shape will appear on the screen.
+5. Use the provided basic shapes to cover the complex shape.
+6. Drag, rotate, and resize the basic shapes to fit them onto the complex shape.
+7. Once you match correctly , your score will increase and the shape will disappear leaving you with the rest of the complex shape
    (If you successfully match a shape within the first few seconds, a special object will appear and move randomly across the screen. If you manage to click on it, you’ll earn double points for your match!)
 
 ---
