@@ -77,6 +77,8 @@ The project is organized into the following classes:
 2. **ComplexShape**: Derived from `Shape`, represents the randomly generated complex shapes.
 3. **BasicShape**: Derived from `Shape`, represents the basic shapes provided to the player.
 4. **Game**: Manages the game logic, including shape generation, player input, and scoring.
+5. **Toolbar**: Responsible for the toolbar
+6. **Operation**: Manages all operations (e.g., Rotate , Flip ,..) 
 
 ---
 
